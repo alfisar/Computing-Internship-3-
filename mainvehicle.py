@@ -19,10 +19,8 @@ while(menu!=0):
         os.system('cls')
         print("=======================")
         print("Masukkan data kendaraan berikut")
-        print("Tahun : ")
-        year=int(input())
-        print("Harga : ")
-        price=int(input())
+        year=int(input("Tahun : "))
+        price=int(input("Harga : "))
         print("=======================")
         if(menu==1):
             a=Car(year, price)
@@ -46,8 +44,7 @@ while(menu!=0):
             os.system('cls')
             print("=======================")
             if(menu2==1):
-                print("Masukkan Durasi Parkir = ")
-                hour = int(input())
+                hour = int(input("Masukkan Durasi Parkir (jam) : "))
                 os.system('cls')
                 print("=======================")
                 print("Biaya Parkir = " + str(a.park(hour)))
