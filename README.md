@@ -20,22 +20,14 @@ iii.
 Nama: Muhammad Alfisar Rachman
 NIM: 1301164036
 Line:alfi_sarrahman
-facebook : 
 ig: alfisarrachman
 LinkedIn : Alfisar Rachman
 
 2.
 Nama : Anas Rasyid
 NIM : 1301181192
-Line:
-Facebook:
-ig:
-LinkedIn:
 
 3.
 Nama : Hilman Abdan
 NIM : 1301174690
 Line : mystald
-Facebook:
-ig:
-LinkedIn:
